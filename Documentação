@@ -1,0 +1,8 @@
+Install AdonisJS ClI
+npm i -g @adonisjs/cli last
+
+npm init adonis-ts-app@latest .
+
+Upload image
+
+npm i uuid
